@@ -3,7 +3,7 @@ import minimist from "minimist"
 import express from "express"
 
 // Import functions from rpsls.js module
-import { rps, rpsls } from ".lib/rpsls.js";
+import { rps, rpsls } from "..lib/rpsls.js";
 
 // Parse command line arguments
 const args = minimist(process.argv.slice(2));
