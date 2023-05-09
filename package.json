@@ -1,0 +1,30 @@
+{
+  "name": "a04-tupshinzhu",
+  "version": "1.0.0",
+  "description": "a04",
+  "main": "server.js",
+  "directories":{
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a04-tupshinzhu.git"
+  },
+  "keywords": [
+    "last",
+    "assignment"
+  ],
+  "author": "tupshinzhu",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a04-tupshinzhu/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a04-tupshinzhu#readme",
+  "type": "module",
+  "dependencies":{
+    "minimist":"1.2.8"
+  }
+}
