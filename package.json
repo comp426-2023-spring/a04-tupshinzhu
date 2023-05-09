@@ -6,6 +6,9 @@
   "scripts": {
     "test": "node server.js --port=5555"
   },
+  "directories": {
+    "lib": "lib"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/comp426-2023-spring/a04-tupshinzhu.git"
