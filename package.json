@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "a04",
   "main": "server.js",
-  "directories":{
-    "lib": "lib"
-  },
   "scripts": {
     "test": "node server.js --port=5555"
   },
@@ -18,7 +15,7 @@
     "assignment"
   ],
   "author": "tupshinzhu",
-  "license": "GNU GENERAL PUBLIC LICENSE",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/comp426-2023-spring/a04-tupshinzhu/issues"
   },
